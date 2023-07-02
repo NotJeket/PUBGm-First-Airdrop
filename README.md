@@ -33,11 +33,13 @@ python your_program_file.py
 
 **Screenshot**
 
-Insert the program's screenshot here.
+![image](https://github.com/NotJeket/PUBGm-First-Airdrop/assets/37781149/d450b4e8-3bd1-40ea-9df6-358f53b9256a)
+
 
 **Flowchart**
 
-Insert the program's flowchart image here.
+![image](https://github.com/NotJeket/PUBGm-First-Airdrop/assets/37781149/bf63ee48-bc3f-482c-a461-8c2a93dc1b16)
+
 
 **License**
 
