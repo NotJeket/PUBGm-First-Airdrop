@@ -38,7 +38,8 @@ python your_program_file.py
 
 **Flowchart**
 
-[![image](https://github.com/NotJeket/PUBGm-First-Airdrop/assets/37781149/bf63ee48-bc3f-482c-a461-8c2a93dc1b16)](https://github.com/NotJeket/PUBGm-First-Airdrop/issues/2#issue-1784606156)
+![code2flow_yDq8s9](https://github.com/NotJeket/PUBGm-First-Airdrop/assets/37781149/db990559-83ad-4e98-8698-8932ea2f54c4)
+
 
 
 **License**
