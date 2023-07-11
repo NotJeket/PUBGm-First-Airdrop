@@ -38,7 +38,9 @@ python your_program_file.py
 
 **Flowchart**
 
-![code2flow_yDq8s9](https://github.com/NotJeket/PUBGm-First-Airdrop/assets/37781149/db990559-83ad-4e98-8698-8932ea2f54c4)
+![code2flow_O3rz8N](https://github.com/NotJeket/PUBGm-First-Airdrop/assets/37781149/3db40b49-38f1-40ff-8499-e0fc9a95c038)
+
+
 
 
 
